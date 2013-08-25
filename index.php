@@ -1,4 +1,48 @@
 <?
+function redirect_to( $uri )
+{
+  header("Location: http://" . $_SERVER['HTTP_HOST']
+                      . rtrim(dirname($_SERVER['PHP_SELF']), '/\\')
+                      . "/" . $uri);
+}
+
+$redirects = array(
+	"Zeitsparwerk" => "",
+	"Zeitsparwerk:Grundriss" => "grundriss",
+	"Zeitsparwerk:Newsletter" => "",
+	"Medien" => "medien",
+	"Projekte" => "projekte",
+	"Projekte:Fitness_%2F_Krafttraining" => "projekte/fitness_kraft",
+	"Projekte:Kletterwand" => "projekte/kletterwand",
+	"Projekte:Herstellung_eines_Modellbaugetriebes" => "projekte/modellbaugetriebe",
+	"Projekte:Querlenker_f%FCr_RC-car" => "projekte/querlenker_rc_car",
+	"Projekte:Kupferdampfmaschine" => "",
+	"Projekte:Feuertornado" => "",
+	"Veranstaltungen%2C_Kurse_und_Workshops" => "",
+	"Veranstaltungen%2C_Kurse_und_Workshops:Der_Kapitalistische_Roboter" => "",
+	"Veranstaltungen%2C_Kurse_und_Workshops:Computerkurse" => "",
+	"Verein" => "verein",
+	"Verein:Vorstand_%26amp%3B_Mitglieder" => "verein/vorstand_mitglieder",
+	"Verein:Statuten" => "verein/statuten",
+	"Verein:Mitglied_werden" => "verein/mitglied_werden",
+	"Verein:Mitgliedsbeitrag" => "verein/mitgliedsbeitrag",
+	"%D6ffnungszeiten" => "oeffnungszeiten",
+	"Anfahrt" => "anfahrt",
+	"Synergien_%26amp%3B_Links" => "synergien_links",
+	"on_Facebook" => "on_facebook"
+
+);
+
+foreach ($redirects as $old => $new) {
+	if (isset($_GET[$old])) {
+		redirect_to($new);
+		exit(0);
+	}
+}
+?>
+<?
+
+
 require "header.php";
 require "menu.php";
 menuMain("");
