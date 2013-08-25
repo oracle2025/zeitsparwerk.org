@@ -63,7 +63,7 @@ so viel Energie und Anstrengung braucht, tut man sich nochmal leichter
 dabei zubleiben. Besonders wenn man sich schwer tut sich zum Sport zu
 überwinden.<br><br>Also alles in allem ist das Training ideal, wenn man <span style="font-weight: bold;">schnell stark werden</span> will, <span style="font-weight: bold;">wenig Zeit</span> hat, und sich <span style="font-weight: bold;">nicht</span> übertrieben <span style="font-weight: bold;">verausgaben</span> will.<br>
 <h4>Die Übungen</h4>Im Training gibt es genau 3 verschiedene Übungen:<br><ul><li>Bankdrücken</li><li>Kniebeugen</li><li>Kreuzheben</li></ul>für die Übungen braucht man eigentlich nur folgende Ausrüstung:<br><ul><li>1 Langhantel und genügend Gewichtsscheiben.</li><li>eine waagrechte Bank mit Hantelhalterung für das Bankdrücken</li><li>ein Kniebeugenständer, oder Powerrack.</li></ul>Im Zeitsparwerk ist das nötige Equipment natürlich vorhanden.<br>
-<h4>Bankdrückbank</h4><div><img src="images/Bankdruecken.JPG"></div><h4>Kniebeugenständer</h4><div><img src="images/Kniebeugenstaender.JPG"></div><h4>Gewichte</h4><div><img src="images/Gewichte.JPG"></div><div><br></div><br>Beim
+<h4>Bankdrückbank</h4><div><img src="../../images/Bankdruecken.JPG"></div><h4>Kniebeugenständer</h4><div><img src="../../images/Kniebeugenstaender.JPG"></div><h4>Gewichte</h4><div><img src="../../images/Gewichte.JPG"></div><div><br></div><br>Beim
 Bankdrücken liegt man auf der Bank auf dem Rücken, nimmt die Hantel aus
 der Halterung, bewegt die Hantel bis zur Brust, und dann wieder nach
 oben, bis die Arme gestreckt sind. Beim Beladen der Hantel muss man

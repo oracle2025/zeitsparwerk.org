@@ -9,7 +9,7 @@ function menuMain($page)
 		"verein" => "Verein",
 		"oeffnungszeiten" => "Öffnungszeiten",
 		"anfahrt" => "Anfahrt",
-		"kontakte" => "Kontakt",
+		"kontakt" => "Kontakt",
 		"synergien_links" => "Synergien & Links",
 		"on_facebook" => "on Facebook"
 
@@ -64,7 +64,7 @@ function menuProjekte($page)
 		"fitness_kraft" => "Fitness / Krafttraining",
 		"kletterwand" => "Kletterwand",
 		"modellbaugetriebe" => "Herstellung eines Modellbaugetriebes",
-		"querlenkter_rc_car" => "Querlenker für RC-car"
+		"querlenker_rc_car" => "Querlenker für RC-car"
 
 	);
 ?>
