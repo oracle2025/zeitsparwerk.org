@@ -6,7 +6,6 @@ function menuMain($page)
 		"/" => "Zeitsparwerk",
 		"medien" => "Medien",
 		"projekte" => "Projekte",
-		"veranstaltungen_kurse_workshops" => "Veranstaltungen, Kurse und Workshops",
 		"verein" => "Verein",
 		"oeffnungszeiten" => "Öffnungszeiten",
 		"anfahrt" => "Anfahrt",
