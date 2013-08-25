@@ -32,9 +32,6 @@ $redirects = array(
 	"on_Facebook" => "on_facebook"
 
 );
-echo "<pre>";
-print_r($_GET);
-echo "</pre>";
 
 foreach ($redirects as $old => $new) {
 	if (isset($_GET[$old])) {
