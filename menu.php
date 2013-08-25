@@ -89,10 +89,10 @@ function menuProjekte($page)
 function menuVerein($page)
 {
 	$links = array(
-		"vorstand_mitglieder" => "Vorstand &amp; Mitglieder"
+		"vorstand_mitglieder" => "Vorstand &amp; Mitglieder",
 		"statuten" => "Statuten",
 		"mitglied_werden" => "Mitglied werden",
-		"mitgliedsbeitrag" => "Mitgliedsbeitrag",
+		"mitgliedsbeitrag" => "Mitgliedsbeitrag"
 
 	);
 ?>
