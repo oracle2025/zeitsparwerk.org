@@ -1,22 +1,21 @@
 <?
-require "../header.php";
-require "../menu.php";
-menuMain("");
+require "../../header.php";
+require "../../menu.php";
+menuMain("projekte");
 ?>
 			<div class="pure-u-3-4">
 				<div style="border: 0.2em dashed black;">
 <?
-menuZeitsparwerk("grundriss");
+menuProjekte("querlenker_rc_car");
 ?>
 				</div>
 				<div id="main" style="padding: 1.5em;">
-
-  <h2>Grundriss</h2><img src="../images/grundriss.png">
+   <h2>Querlenker für RC-car</h2><br>RC-cars zeichnen sich durch hohe Kosten, hohen Wartungsaufwand und insbesondere wahnwitzige Geschwindigkeiten aus. 70 km/h sind absolut realistisch und so muss der eine oder andere mit Unfällen rechnen. Jedoch birgt dies die Möglichkeit zur <span style="font-weight: bold;">Verbesserung</span> a) der eigenen Erfahrung und b) der <span style="font-weight: bold;">zerstörten Bauteile</span>. Insbesondere zweiteres wurde durch <a href="http://www.platform21.nl/page/4315/nl?lang=de">ein Projekt der Platform 21</a> im <a href="http://www.platform21.nl/page/4360/en">repair manifesto</a> niedergeschrieben - ich empfehle es aufs Wärmste!<br><br>Jedenfalls zerstörte ein Kollege meinerseits einen <a href="http://de.wikipedia.org/wiki/Querlenker">Querlenker</a> (Einfachquerlenker) seines RC-cars und wir nahmen dies zum Anlass, dem repair manifesto gerecht zu werden, einen komplett neuen QL herzustellen.<br>Ursprünglich in Plastik gefertigt planen wir das neue Stück in edlem Metall zu fertigen, Aluminium scheint perfekt, es zeichnet sich durch gute Festigkeit, Leichtigkeit und leichte Verarbeitungsmöglichkeit aus. Anstatt den QL als, wie bisher, Strebenkonstruktion herzustellen, beschließen wir eine massive Aluminiumplatte (ca 5mm) entsprechend auszuschneiden. Größere Löcher im QL sollten die Optik auflockern, bzw, wir werden es später noch diskutieren, Sacklöcher vermeiden.<br><br><img src="./images/57968_1397478100930_1351563881_31000524_2710837_n.jpg"><br>Der erste Rohschliff: der neue Aluminium-QL im Vergleich mit dem, unbeschädigtem, orginalem Kunststoff-Querlenker.<br><br>Ausgeschnitten mit Winkelschleifer und Metallsäge, in Passform gebracht mit dem Schleifbock. Die Passgenauigkeit ist vor allem in Hinblick auf den Radeinschlag zu berücksichtigen. Linkerhand erkennen wir die Gabel die zur Chassis-mitte führt und mit horizontalem Gestänge für Beweglichkeit sorgt. Am anderen Ende wird das Kugelgelenk eingeschraubt, ein Gewinde wird benötigt, waagrecht (vor allem sehr präzise in Lage) in den QL hinein. Die im BIld gut erkennbare längliche Aussparung wird für den Stoßdämpfer benötigt, inklusive einem Loch mit Gewinde zur Befestigung. Die Aussparung wurde mit Bohrer und Dremel ausgeführt.<br><br>Ein Wort zum <span style="font-weight: bold;">Gewindeschneiden</span>: Es gibt Gewindeschneider vielerlei, jedoch keine qualitativ hochwertigen im nächsten Baumarkt (3-teilige Gewindeschneider sind unbrauchbar, sofern man halbwegs ordentliche Qualität wünscht). Beim Profi-Händler (in unserem Fall von MK Krismer, Kufstein) erhält man Gewindeschneider, maschinentauglich, zu einem Preis der jenem im Baumarkt um nicht vieles übersteigt. Ein Schneideöl sei noch zu empfehlen.<br>Des weiteren muss die Abfuhr der Spänen berücksichtigt werden, d.h. es gibt spezielle Gewindeschneider für <a href="http://de.wikipedia.org/wiki/Sackloch">Sacklöcher</a> (entsprechend teurer). Wir umgehen den Umstand indem wir am Ende einfach ein größeres Loch zur Spänenabfuhr einbohren.<br><br>Augenscheinlich stark bearbeitet wirken die beiden gefertigten QL nicht besonders ansprechend, wir beschließen kurzerhand sie violett zu Lackieren (wir hatten kein Metall-blau mehr ^^).<br><img src="./images/58357_1394189218710_1351563881_30992549_2742020_n.jpg"><br>Sieht doch gleich viel besser aus: violett, aluminium - profiware :-D Leider unser einziges Bild mit dem zerstörtem urpsrünglichem QL (oben links).<br><br><img src="./images/61060_1397477980927_1351563881_31000523_7248071_n.jpg"><br>Einbau im RC-car: sitzt perfekt.<br><br>Für die Kraftübertragung fehlt uns des weiteren eine Antriebswelle zwischen Chassis und Rad, jene drehe ich schnell aus einer Nirostange heraus und bohre 2 Löcher für die Querelemente die per Hammerschlag gefügt werden.<br><br><img src="./images/58760_1397718066929_1351563881_31000834_221230_n.jpg"><br>Die Stärke der Welle in der Mitte ist irrelevant, die Taillierung ist nun am Gelenk von nöten. Es stellt sich ehraus, dass diese Welle wesentlich einfach herzustellen ist als jene im Projekt <a href="?Projekte:Herstellung_eines_Modellbaugetriebes">Herstellung eines Modellbaugetriebes</a>.<br><br><img src="./images/61944_1397718226933_1351563881_31000835_6320566_n.jpg"><br>Fertig verbaute Antriebswelle und QL.<br><br>Arbeitsaufwand: ca 2 gemütliche Nachmittage. Ergebnis: superb.<br>Anmerkung: Beim Testen des Wagens gab es, aufgrund von Funkproblemen (lol) einen Unfall. Mit dem Querlenker bei ca 30km/h gegen die nächste Betonmauer. Der QL zeigte sich unbeeindruckt, eine kleinere Schramme. Keine Verwindung, Verbiegung oder Verstauchung - oder negativ gesprochen: keine Gnade mehr für im Weg liegende Objekte ;-P<br>
 				</div>
 			</div>
 
 
 <?
 
-require "../footer.php";
+require "../../footer.php";
 ?>
