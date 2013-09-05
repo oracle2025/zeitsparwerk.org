@@ -11,12 +11,12 @@ menuMain("oeffnungszeiten");
 	</div>
 	<div id="main" style="padding: 1.5em;">
 		<h1 class="line874">Öffnungszeiten</h1>
-		Dienstags von 18:00 bis 20:00 Uhr<br>
-		Samstags von 15:00 bis 20:00 Uhr<br>
-		sowie an den meisten Sonntagen zu Nachmittag und des öfteren Werktagen Abends.<br>
+		Abseits von öffentlichen Veranstaltungen sind unsere Öffnungszeiten derzeit sehr variabel. Natürlich öffnet das Werk seine Tore gern für Interessierte zu vereinbarten Zeiten.
+		Einfach eine kurze Mail an ein <a href="/verein/vorstand_mitglieder">Vorstandsmitglied</a> und wir schauen, was sich machen lässt.<br>
 		<br>
-		Das Zeitsparwerk zu anderen Zeiten besichtigen? Kein Problem, das Werk öffnet die Tore gerne für Interessierte zu vorher vereinbarten Zeiten. 
-		Einfach eine kurze Mail an ein <a href="/verein/vorstand_mitglieder">Vorstandsmitglied</a> und wir schauen, was sich machen lässt.
+		Erhöhte Wahrscheinlichkeit für anwesende Zeitsparwerkmitglieder besteht an folgenden Tagen und Zeitspannen:<br>
+		Mo-Do von 18:00 bis 21:00 Uhr<br>
+		Sa+So von 12:00 bis 22:00 Uhr<br>
 		<br>
 	</div>
 </div>
