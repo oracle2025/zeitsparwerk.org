@@ -33,26 +33,24 @@ menuMain("verein");
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Florian Decker</h4>
-		<span style="font-weight: bold; ">Status:</span>&nbsp;Kassier<span style="font-weight: bold; "><br></span>
+		<span style="font-weight: bold; ">Status:</span>&nbsp;Kassier<br>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Raimund Spindler</h4>
-		<div><span style="font-weight: bold;">Skills:</span> Metallverarbeitung, klassisches Handwerk<br>
-			<span style="font-weight: bold;">Projekte:</span> Kupferdampfmaschine<br>
-			<span style="font-weight: bold;">Beruf:</span> Spengler<br>
+		<span style="font-weight: bold;">Skills:</span> Metallverarbeitung, klassisches Handwerk<br>
+		<span style="font-weight: bold;">Projekte:</span> Kupferdampfmaschine<br>
+		<span style="font-weight: bold;">Beruf:</span> Spengler<br>
 
 		<h4 style="font-weight: bold;">Markus Sengthaler</h4>
-		<span style="font-weight: bold;"></span><span style="font-weight: bold;">Skills:</span> Programmierung, Modellbau, Fahrzeugtechnik, Konstruktion<br>
+		<span style="font-weight: bold;">Skills:</span> Programmierung, Modellbau, Fahrzeugtechnik, Konstruktion<br>
 		<span style="font-weight: bold;">Projekte:</span> <a href="/?Projekte:Herstellung_eines_Modellbaugetriebes">Herstellung eines Modellbaugetriebes</a>, Zahnradfräse inkl Härterofen, LED Nachrüstung eines RC cars<br>
 		<span style="font-weight: bold;">Beruf:</span> Student (Physik)<br>
 		<br>
-</div>
 
-				</div>
-			</div>
+	</div>
+</div>
 
 
 <?
-
 require "../../footer.php";
 ?>
