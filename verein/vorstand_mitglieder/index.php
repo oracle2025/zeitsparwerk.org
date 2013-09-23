@@ -24,6 +24,7 @@ menuMain("verein");
 
 		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Lea Spindler</h4>
 		<span style="font-weight: bold; ">Status:</span>Schriftführer<br>
+		<span style="font-weight: bold;">Skills:</span> Textilverarbeitung, Kunst und Design, Architektur <br>
 
 		<h4 style="font-weight: bold;">Markus Sengthaler</h4>
 		<span style="font-weight: bold;">Status:</span> Kassier<br>
@@ -41,13 +42,19 @@ menuMain("verein");
 		<span style="font-weight: bold;">Telefon:</span> +43 664 7909103<br>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Florian Decker</h4>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8">
-
 		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Raimund Spindler</h4>
 		<span style="font-weight: bold;">Skills:</span> Metallverarbeitung, klassisches Handwerk <br>
 		<span style="font-weight: bold;">Projekte:</span> Kupferdampfmaschine, Miniatur-Zeitsparwerk, Bollerwagen (inzwischen Wägen), zahlreiche Kunstobjekte<br>
 		<span style="font-weight: bold;">Beruf:</span> Spengler<br>
+
+		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Tudor Ionescu</h4>
+		<span style="font-weight: bold;">Skills:</span> Alteingesessener Bastler und Tüftler, Schöpfer (un)möglicher Ideen <br>
+		<span style="font-weight: bold;">Beruf:</span> Hörgeräteakustiker <br>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Florian Decker</h4>
+		<span style="font-weight: bold;">Skills:</span> Elektronik <br>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<br>
 
 	</div>
