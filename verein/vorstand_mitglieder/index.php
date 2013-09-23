@@ -13,7 +13,7 @@ menuMain("verein");
 		<h2>Vorstand &amp; Mitglieder</h2>
 		Derzeit umfasst der Verein ca 15 ständige Mitglieder sowie eine Vielzahl von Stammbesuchern und Interessierten. Wir präsentieren hier eine Auswahl der most-notable persons:<br><br>
 
- 		<h4 style="font-weight: bold;">Richard Spindler</h4>
+ 		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Richard Spindler</h4>
  		<span style="font-weight: bold;">Status:</span> Obmann<br>
  		<span style="font-weight: bold;">Skills:</span> Management, Fitness, Programmierung<br>
  		<span style="font-weight: bold;">Projekte:</span> <a href="/?Projekte:Fitness_%2F_Krafttraining">Fitnesstraining</a>, "Der Tisch"<br>
@@ -26,14 +26,14 @@ menuMain("verein");
 		<span style="font-weight: bold; ">Status:</span>Schriftführer<br>
 		<span style="font-weight: bold;">Skills:</span> Textilverarbeitung, Kunst und Design, Architektur <br>
 
-		<h4 style="font-weight: bold;">Markus Sengthaler</h4>
+		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Markus Sengthaler</h4>
 		<span style="font-weight: bold;">Status:</span> Kassier<br>
 		<span style="font-weight: bold;">Skills:</span> Programmierung, Fahrzeugtechnik, IT Technik<br>
 		<span style="font-weight: bold;">Projekte:</span> <a href="/?Projekte:Herstellung_eines_Modellbaugetriebes">Herstellung eines Modellbaugetriebes</a>, Zahnradfräse inkl Härterofen, LED Nachrüstung eines RC cars<br>
 		<span style="font-weight: bold;">Beruf:</span> Programmierer (<a href="http://dynamind-toolbox.org/" target="_blank">dynamind-toolbox.org</a>), Student (Physik)<br>
 		<span style="font-weight: bold;">E-Mail:</span> <a href="mailto:m.sengthaler@gmail.com">m.sengthaler@gmail.com</a><br>
 
-		<h4 style="font-weight: bold;">Albert Frisch</h4>
+		<h4 style="font-size: 12pt; font-weight: bold; margin-bottom: 6px; ">Albert Frisch</h4>
 		<span style="font-weight: bold;">Skills:</span> Elektronik, Programmierung, Ideenpool in Person<br>
 		<span style="font-weight: bold;">Projekte:</span> Arduino Workshop, Flammentornado<br>
 		<span style="font-weight: bold;">Beruf:</span> Doktoratsstudent (Physik)<br>
