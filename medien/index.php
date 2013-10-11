@@ -20,6 +20,7 @@ menuMain("medien");
 		<a href="http://www.computerpool.at/index.php/projekte/12-besuch-im-zeitsparwerk">Besuch im Zeitsparwerk </a>@computerpool<br>
 		<a href="http://wakalixes.propirate.net/2009/03/zeitsparwerk/">Zeitsparwerk</a>@wakalixes<br>
 		<a href="http://www.vivomondo.com/de/content/download/68207/793162/file/August%202013.pdf">Zeitsparwerk hilft: Schülerhort Miteinander bekommt einen eigenen Garten </a>@Wörgler Stadtmagazin<br>
+		<a href="http://www.natuerlichgemeinsam.eu/dokumentation/austausch-zeitsparwerk-und-islamische-foederation-woergl">Austausch zwischen Zeitsparwerk und Islamischer Föderation Wörgl</a>@natuerlichgemeinsam.eu<br>
 
 		<h4>Bilder Gallerie<br></h4>
 		<iframe src="http://www.flickr.com/slideShow/index.gne?group_id=&amp;user_id=39016759@N06&amp;set_id=&amp;text=" frameborder="0" height="500" scrolling="no" width="500" align="center"></iframe><br>
