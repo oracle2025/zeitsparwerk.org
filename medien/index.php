@@ -18,7 +18,7 @@ menuMain("medien");
 		<a href="http://www.vero-online.info/news.php?m=single&amp;id=2253">"Bastelarbeit" aus dem Zeitsparwerk: Universal-TV-Ausschalter </a>@vero-online<br>
 		<a href="http://www.vero-online.info/page.php?id=1316">"Nimm autofrei!"- europaweiter Aktionstag am 22. September 2009 </a>@vero-online<br>
 		<a href="http://www.computerpool.at/index.php/projekte/12-besuch-im-zeitsparwerk">Besuch im Zeitsparwerk </a>@computerpool<br>
-		<a href="http://wakalixes.propirate.net/2009/03/zeitsparwerk/">Zeitsparwerk @wakalixes</a><br>
+		<a href="http://wakalixes.propirate.net/2009/03/zeitsparwerk/">Zeitsparwerk</a>@wakalixes<br>
 		<a href="http://www.vivomondo.com/de/content/download/68207/793162/file/August%202013.pdf">Zeitsparwerk hilft: Schülerhort Miteinander bekommt einen eigenen Garten </a>@Wörgler Stadtmagazin<br>
 
 		<h4>Bilder Gallerie<br></h4>
