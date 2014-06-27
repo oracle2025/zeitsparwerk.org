@@ -16,6 +16,12 @@ menuSynergienLinks("");
  	<li>rejected filmfestival <a href="http://www.filmfest-rejected.com/">filmfest-rejected.com</a></li></ul>
  	<p><br></p><ul><li><a href="http://metalab.at/">metalab.at</a></li>
  		<li><a href="http://www.ccc.de/">ccc.de</a><br></li></ul>
+
+<h3>In den Medien</h3>
+<ul>
+	<li><a href="http://www.tt.com/panorama/gesellschaft/8499830-91/initiativen-für-mehr-freiräume.csp">TT: Initiativen für mehr Freiräume</a></li>
+	<li><a href="http://www.vero-online.info/page.php?id=3161">Vero Online: Just do it: Jugendkultur im Stadtpark Fischerfeld</a></li>
+</ul>
  		
  		
  		<h3>Amazon Partner Links:</h3>
