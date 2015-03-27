@@ -7,8 +7,8 @@ function menuMain($page)
 		"medien" => "Medien",
 		"projekte" => "Projekte",
 		"verein" => "Verein",
-		"oeffnungszeiten" => "Öffnungszeiten",
-		"anfahrt" => "Anfahrt",
+		//"oeffnungszeiten" => "Öffnungszeiten",
+		//"anfahrt" => "Anfahrt",
 		"kontakt" => "Kontakt",
 		"synergien_links" => "Synergien & Links",
 		"on_facebook" => "on Facebook"

@@ -2,6 +2,7 @@
 require "../header.php";
 require "../menu.php";
 menuMain("anfahrt");
+/*
 ?>
 			<div class="pure-u-3-4">
 				<div style="border: 0.2em dashed black;">
@@ -19,6 +20,6 @@ Larger Map</a><br></small>
 
 
 <?
-
+ */
 require "../footer.php";
 ?>

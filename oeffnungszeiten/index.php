@@ -2,6 +2,7 @@
 require "../header.php";
 require "../menu.php";
 menuMain("oeffnungszeiten");
+/*
 ?>
 <div class="pure-u-3-4">
 	<div style="border: 0.2em dashed black;">
@@ -21,5 +22,6 @@ menuMain("oeffnungszeiten");
 	</div>
 </div>
 <?
+ */
 require "../footer.php";
 ?>
